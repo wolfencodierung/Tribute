@@ -1,0 +1,102 @@
+body {
+  text-align: left;
+  font-family: Old Standard TT;
+  font-size: 15pt;
+  background-image: url('http://i65.tinypic.com/a5glxg.jpg')
+}
+h1 {
+  text-align: center;
+  margin: 0px 0px 0px 0px;
+  font-size: 45pt;
+  
+}
+h2 {
+  text-align: center;
+  font-style: italic;
+  font-size: 22pt;
+}
+h3 {
+  font-size: 18pt;
+  margin: 18px 0px 18px 0px
+}
+.main {
+  width: 1200px;
+  background-color: #e6e8ed;
+  display:block;
+  margin: 50px auto;
+  padding: 80px 0px 0px 0px;
+}
+.main-img {
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+  position: relative;
+  margin: 0 0 0 0;
+}
+.main-img-border {
+    boder-radius: 50px;
+    border-style: solid;
+}
+.main-img-parent {
+  text-align: center;
+  background-color: white;
+  border: 1px;
+  border-stayle: solid;
+  max-width: 100%;
+  width: 850px;
+  padding: 3px 3px 0px 3px;
+  display: block;
+  margin: 0 auto;
+  border-radius: 5px;
+  border-style:solid;
+  border-color: #ceccc6;
+}
+.main-img-comment {
+  margin: 6px 0px 12px 0px;  
+}
+.main-text {
+  padding: 0px 50px 0px 50px;
+}
+.text-img-right {
+  float: right;
+  width:415px;
+  height: auto;
+  border: 1px;
+  border-style: solid;
+  border-color: #ceccc6;
+  margin: -22px 6px 0px 6px;
+}
+.text-img-left {
+  background-color: #ffffff;
+  float: left;
+  width:275px;
+  height: auto;
+  border: 1px;
+  border-style: solid;
+  border-color: #ceccc6;
+  margin: 0px 6px 0px 0;
+  padding: 2px auto;
+}
+.emphasis-parent {
+  width:700px;
+  text-align: center;
+   background-color: #ffffff;
+  border: 1px;
+  border-style: solid;
+  border-color: #ceccc6;
+  padding: 12px 12px 12px 12px;
+  display: block;
+  margin: 0 auto;
+  font-weight: bold;
+}
+.emphasis-text {
+  margin: 0 auto;
+}
+.quote-source {
+  margin: 0px 0px 24px 36px;
+  font-style: italic;
+}
+a {
+  font-color: #337ab7;
+  text-decoration: none;  
+}
